@@ -1,0 +1,7 @@
+password
+hello
+digital
+image
+processing
+end
+clear
